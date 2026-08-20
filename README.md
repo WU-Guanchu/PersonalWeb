@@ -1,4 +1,4 @@
-# Guanchu Wu — Homepage
+# WU, Guanchu — Homepage
 
 A compact academic personal website built for GitHub Pages.
 
