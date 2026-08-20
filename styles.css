@@ -200,6 +200,16 @@ h3 {
   object-fit: contain;
 }
 
+.research-gallery figure:only-child a {
+  height: auto;
+  min-height: 0;
+}
+
+.research-gallery figure:only-child img {
+  display: block;
+  height: auto;
+}
+
 .research-gallery figcaption {
   margin-top: 9px;
   color: var(--muted);
